@@ -35,7 +35,7 @@ Apoia na tomada de decisões estratégicas e táticas em diversas operações.
 
 1. Defina a função objetivo e as restrições do problema.
 2. Configure os parâmetros no aplicativo.
-3. Execute o método Simplex para obter a solução ótima.
+3. Execute o método Simplex para obter a sua solução.
 
 ## Contribuições
 
@@ -85,7 +85,7 @@ Supports strategic and tactical decision-making in various operations.
 
 1. Define the objective function and constraints of the problem.
 2. Configure parameters in the application.
-3. Run the Simplex method to obtain the optimal solution.
+3. Run the Simplex method to obtain the your solution.
 
 ## Contributions
 
