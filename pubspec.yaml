@@ -1,0 +1,31 @@
+name: simplexe
+description: "SIMPLEX."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+linter:
+  rules:
+    - prefer_const_constructors
+
+environment:
+  sdk: '>=3.3.0-152.0.dev <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  matrices: ^1.2.7
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+
+flutter:
+
+  uses-material-design: true
